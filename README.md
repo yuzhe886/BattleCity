@@ -1,7 +1,7 @@
 # Android BattleCity 1990
 The classical BattleCity1990 game,  support dual play via bluetooth
 
-# Only for remnscence
+# Only for reminiscence
 When I bought my first smart phone, ME525, I began to write this program for fun.
 
 # Support dual players
